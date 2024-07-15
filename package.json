@@ -1,7 +1,7 @@
 {
 	"name": "@vyke/context",
 	"type": "module",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"description": "A simple context manager for running code in a specific context",
 	"author": "Jose Albizures <jose@albizures.com> (https://albizures.com/)",
 	"license": "MIT",
